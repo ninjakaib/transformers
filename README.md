@@ -1,2 +1,2 @@
 # transformers
-An education journey on implementing transformers from scratch
+An educational journey on implementing transformers from scratch
